@@ -1,7 +1,4 @@
-@font-face{font-family:Trenda;font-weight:400;font-style:normal;font-display:fallback;src:local('Trenda Regular'),url(https://www.adenin.com/assets/fonts/Trenda-regular-subset.woff2) format('woff2'),url(https://www.adenin.com/assets/fonts/Trenda-regular-subset.woff) format('woff')}
-
-@font-face{font-family:Trenda;font-weight:700;font-style:normal;font-display:fallback;src:local('Trenda Bold'),url(https://www.adenin.com/assets/fonts/Trenda-bold-subset.woff2) format('woff2'),url(https://www.adenin.com/assets/fonts/Trenda-bold-subset.woff) format('woff');}
-
-@font-face{font-family:Trenda;font-weight:500;font-style:normal;font-display:fallback;src:local('Trenda Semibold'),url(https://www.adenin.com/assets/fonts/Trenda-semibold-subset.woff2) format('woff2'),url(https://www.adenin.com/assets/fonts/Trenda-semibold-subset.woff) format('woff')}
-
-@font-face{font-family:Trenda;font-weight:200;font-style:normal;font-display:fallback;src:local('Trenda Light'),url(https://www.adenin.com/assets/fonts/Trenda-light-subset.woff2) format('woff2'),url(https://www.adenin.com/assets/fonts/Trenda-light-subset.woff) format('woff')}
+@font-face {
+  font-family: Trenda;
+  src: url(https://www.adenin.com/assets/fonts/Trenda-regular.woff);
+}
